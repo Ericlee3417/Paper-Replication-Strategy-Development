@@ -1,7 +1,3 @@
-Here’s a README file draft based on the Python files you’ve uploaded:
-
----
-
 # Alpha Engine Trading Strategy Replication and Optimization
 
 ## Overview
